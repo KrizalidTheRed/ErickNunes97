@@ -13,13 +13,13 @@
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img  align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img  align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-
-    ![Snake animation](https://github.com/ErickNunes97/ErickNunes97/blob/output/github-contribution-grid-snake.svg)
-
+  
     
   ##
 
 </div>
+  ![Snake animation](https://github.com/ErickNunes97/ErickNunes97/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **ErickNunes97/ErickNunes97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
