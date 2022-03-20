@@ -14,7 +14,8 @@
   <img  align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" />
   <img  align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 
-  
+    ![Snake animation](https://github.com/ErickNunes97/ErickNunes97/blob/output/github-contribution-grid-snake.svg)
+
     
   ##
 
