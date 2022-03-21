@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <h1 align="left" style="font-weight: bold; font-size:32;">Olá, sou o Erick, seja bem-vindo!</h1>
   <a href="https://github.com/ErickNunes97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickNunes97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
