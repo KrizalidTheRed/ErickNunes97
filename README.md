@@ -17,7 +17,7 @@
 </div><br/>
   
 ### Commits do Mês 🎯:
- ![Snake animation](https://github.com/ErickNunes97/ErickNunes97/blob/output/github-contribution-grid-snake.svg)    
+ !![gitartwork](gitartwork.svg)    
   ##
 
 </div>
