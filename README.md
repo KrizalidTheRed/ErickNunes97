@@ -1,8 +1,9 @@
 ### Olá, Eu sou o Erick 👋
 ### Seja-bem vindo ao meu portifólio!
-<div align="left">
+<div align="center">
   <a href="https://github.com/ErickNunes97">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickNunes97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <br><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ErickNunes97&theme=github-dark-blue"></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNunes97&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
   
