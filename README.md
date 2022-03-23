@@ -18,9 +18,7 @@
   
 ### Commits do Mês 🎯:
   ![Snake animation](https://github.com/ErickNunes97/ErickNunes97/blob/output/github-contribution-grid-snake.svg)    
-  ##
-
-</div>
+  
 <!--
 **ErickNunes97/ErickNunes97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
