@@ -16,8 +16,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
+## Contribuições
 
-<h2>Contribuições</h2>
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ErickNunes97&bg_color=333333&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=false)
   
 ### Commits do Mês 🎯:
