@@ -1,7 +1,7 @@
 <div align="left">
   <h1 align="left" style="font-weight: bold; font-size:32;">Olá, sou o Erick, seja bem-vindo!</h1>
   <a href="https://github.com/KrizalidTheRed">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickNunes97&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KrizalidTheRed&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <br><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=KrizalidTheRed&theme=github-dark-blue"></br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KrizalidTheRed&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
